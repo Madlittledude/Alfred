@@ -13,8 +13,8 @@ def display_intro():
     st.title('Welcome, Master Peraza. How can I be of service to you?')
     st.write(':heart: Alfred')
 
-keven = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/madlittledude_flipped.png"
-alfred = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/madlittledudette_flipped.png"
+keven = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/keven.png"
+alfred = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/alfred_flipped.png"
 def display_chat_interface():
 
     for message in st.session_state.messages:
