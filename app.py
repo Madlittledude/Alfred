@@ -10,7 +10,7 @@ def display_chat_message(role, content,avatar):
         st.markdown(content)
 
 def display_intro():
-    st.title('Welcome, Master Peraza. How can I be of service to you?')
+    st.title('Welcome, Master Peraza')
     st.write(':heart: Alfred')
 
 keven = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/keven1.png"
