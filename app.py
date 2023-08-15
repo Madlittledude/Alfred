@@ -13,7 +13,7 @@ def display_intro():
     st.title('Welcome, Master Kevin')
     st.write(':heart: Alfred')
 
-keven = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/keven1.png"
+keven = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/keven_cape.png"
 alfred = "https://raw.githubusercontent.com/Madlittledude/Alfred/main/alfred_flipped.png"
 def display_chat_interface():
 
